@@ -1,0 +1,10 @@
+.card {
+ padding: 20px;
+ border-radius: 10px;
+ border: 1px solid rgb(212, 212, 212);
+ box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+}
+.comment{
+ max-width: 300px;
+ overflow-wrap: break-word;
+}
